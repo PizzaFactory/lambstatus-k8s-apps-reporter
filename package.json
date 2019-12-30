@@ -1,0 +1,23 @@
+{
+  "name": "lambstatus-k8s-apps-reporter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "brigade.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monami-ya/lambstatus-k8s-apps-reporter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/monami-ya/lambstatus-k8s-apps-reporter/issues"
+  },
+  "homepage": "https://github.com/monami-ya/lambstatus-k8s-apps-reporter#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
